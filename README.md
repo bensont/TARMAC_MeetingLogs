@@ -2,7 +2,7 @@
 Meeting Logs and To-Do lists for The Stockpile!
 ***
 ## Current to-do list (updated 09/30):
-* Give the TAs and professor access to the Github
+* ~~Give the TAs~~ Give professor access to the Github repos
 * ~~Share the code repos with everyone in the group~~
 * ~~Add the links to the GitHub repos to the Milestone 1 deliverable~~
 * Screenshot of the collaborations within each repo
