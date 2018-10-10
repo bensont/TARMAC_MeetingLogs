@@ -12,8 +12,8 @@ Meeting Logs and To-Do lists for The Stockpile!
 * Draft of how the website looks
 * ~~Add stuff on AGILE development~~
 ## Current to-d0 list (update 10/7):
-*Make the html/css pages for main and login pages.
-*More General design finalize design
-*Get to mid point design of the database
-*Webscrapper be done or talk about just doing a base gathered else where
-*Maureen brings doughnuts/starbucks for the group
+* Make the html/css pages for main and login pages.
+* More General design finalize design
+* Get to mid point design of the database
+* Webscrapper be done or talk about just doing a base gathered else where
+* Maureen brings doughnuts/starbucks for the group
